@@ -2,7 +2,7 @@
 This project performs comprehensive Exploratory Data Analysis (EDA) on a student placement dataset using R. It uncovers patterns related to age, gender, family support, education, and salary, with a focus on visual storytelling using ggplot2.
 
 📁 Dataset
-File: Placement_Data_Full_Class.csv
+File: India_Graduate_Employment_Survey
 
 Features: Age, Gender, SSC/HSC Scores, Degree Type, Family Support, Work Experience, Salary, etc.
 
